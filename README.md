@@ -1,7 +1,6 @@
 # Joint Savings Account
 
 
-
 ![alt=“”](Images/20-5-challenge-image.png)
 
 ### Background
