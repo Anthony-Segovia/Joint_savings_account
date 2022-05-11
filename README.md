@@ -2,7 +2,7 @@
 
 
 
-Images/20-5-challenge-image.png
+![alt=“”](Images/20-5-challenge-image.png)
 
 ### Background
 
