@@ -1,8 +1,8 @@
-# Joint_Savings_Account
+# Joint Savings Account
 
-# Unit 20 - "Joint Savings Account"
 
-(Images/20-5-challenge-image.png)
+
+Images/20-5-challenge-image.png
 
 ### Background
 
